@@ -1,0 +1,13 @@
+.nav__bar {
+  border: 1px solid #e6e6e6;
+}
+.nav__bar__logo {
+  width: 100px;
+  height: auto;
+  object-fit: contain;
+}
+.nav__bar__user__image {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
